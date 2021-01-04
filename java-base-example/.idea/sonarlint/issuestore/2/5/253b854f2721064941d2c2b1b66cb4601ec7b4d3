@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú™‰8Èêììì.
+y	java:S116"XRename this field "member_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢íúÿÿÿÿÿ8ä÷Äíì.
+t	java:S116"XRename this field "member_string" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å—ô8™ÈÉíì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š¬Òõ8á²Èíì.
+s	java:S116"WRename this field "member_float" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß˜îù8±ŠÆíì.
+F
+java:S1481"*Remove this unused "local" local variable.(úÏ²x8­·òìì.
+t	java:S116"YRename this field "member_boolean" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚÷!8¡şÇíì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»ĞæÓüÿÿÿÿ8µèÆíì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬›ê†8¦ãÉíì.
