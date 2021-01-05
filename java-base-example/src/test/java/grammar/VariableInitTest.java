@@ -3,10 +3,10 @@ package grammar;
 import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
 
-public class VariableTest {
+public class VariableInitTest {
 
     @Test
     public void initVariable() {
-        new Variable().initVariable();
+        new VariableInit().initVariable();
     }
 }

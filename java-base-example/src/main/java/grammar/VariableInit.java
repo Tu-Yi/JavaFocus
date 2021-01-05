@@ -11,9 +11,9 @@ import org.slf4j.LoggerFactory;
  * @Author: Tu-Yi
  * @Created: 2021/01/04 21:25
  */
-public class Variable {
+public class VariableInit {
 
-    Logger logger = LoggerFactory.getLogger(Variable.class.getName());
+    Logger logger = LoggerFactory.getLogger(VariableInit.class.getName());
 
     int memberNumber;
     float memberFloat;
