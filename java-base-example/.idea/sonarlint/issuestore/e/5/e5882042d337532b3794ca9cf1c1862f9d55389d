@@ -1,5 +1,5 @@
 
-_
-java:S1128"=Remove this unused import 'cn.hutool.core.convert.Converter'.(È£«×ûÿÿÿÿ8Ýœæ„í.
 >
-java:S21119"!Use "BigDecimal.valueOf" instead.(ª»ç¯8í‹úƒí.
+java:S21117"!Use "BigDecimal.valueOf" instead.(ª»ç¯8í‹úƒí.
+i
+java:S1192n"GDefine a constant instead of duplicating this literal "2.3366" 3 times.(ºžÛ•úÿÿÿÿ8ÙÞÉ…í.
