@@ -1,0 +1,26 @@
+
+V
+java:S4973["9Use the "equals" method if value comparison was intended.(¤ÍÚå8ºüü«î.
+V
+java:S4973P"9Use the "equals" method if value comparison was intended.(Ãò•¡8€õô«î.
+[
+java:S4973N"9Use the "equals" method if value comparison was intended.( œ´¬ûÿÿÿÿ8€õô«î.
+M
+java:S1481}"+Remove this unused "int100" local variable.(šáŒ¥ùÿÿÿÿ8²±Ûºî.
+O
+java:S1199^"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8İÉºî.
+O
+java:S1199y"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8²±Ûºî.
+[
+java:S4973D"9Use the "equals" method if value comparison was intended.(Ç‘Çİşÿÿÿÿ8ìºÚ«î.
+[
+java:S4973F"9Use the "equals" method if value comparison was intended.(’šË¶øÿÿÿÿ8‘îÙ«î.
+\
+java:S1854}":Remove this useless assignment to local variable "int100".(šáŒ¥ùÿÿÿÿ8²±Ûºî.
+O
+java:S1199p"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8†ÉÔºî.
+O
+java:S1199f"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8œ…Êºî.
+V
+java:S4973Y"9Use the "equals" method if value comparison was intended.(©íƒ§8ºüü«î.
+X	java:S125g"<This block of commented-out lines of code should be removed.(ôƒ˜…8“øËºî.
