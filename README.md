@@ -44,3 +44,15 @@ Java为什么是值传递
 Java整型的缓存机制
 
 Boolean和boolean，success和isSuccess
+
+equals 和 ==
+
+String为什么是不可变的
+
+字符串常量池
+
+为什么直接定义的字符串可以调用String对象的各种方法
+
+JDK6 和 JDK7 substring原理的改变
+
+字符串拼接的几种方式 区别 效率
